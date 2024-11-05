@@ -141,3 +141,4 @@
 /home/arbey/Documentos/proyectos/ut/7mo/arqsw/CrudApi/obj/Debug/net8.0/CrudApi.pdb
 /home/arbey/Documentos/proyectos/ut/7mo/arqsw/CrudApi/obj/Debug/net8.0/CrudApi.genruntimeconfig.cache
 /home/arbey/Documentos/proyectos/ut/7mo/arqsw/CrudApi/obj/Debug/net8.0/ref/CrudApi.dll
+/home/arbey/Documentos/proyectos/ut/7mo/arqsw/CrudApi/obj/Debug/net8.0/CrudApi.sourcelink.json
